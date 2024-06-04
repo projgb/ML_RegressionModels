@@ -12,4 +12,4 @@ A sample housing data set is used for comparing different regression models. Out
 
 
 # Code sample
-WIP: Jupyter notebook 'RegressionModels.ipynb' contains the source code used for this learning exercise.
+Jupyter notebook 'RegressionModels.ipynb' contains the source code used for this learning exercise.
